@@ -1,4 +1,4 @@
-# 📺 Sports Bot — Telegram Streaming Bot
+# 📺 Sportlink Bot — Telegram Streaming Bot
 
 A Telegram bot that serves live sports streams from M3U playlists — deployed on **Cloudflare Workers** (free tier, 24/7, no server required).
 
